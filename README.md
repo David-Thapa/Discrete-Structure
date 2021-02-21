@@ -1,2 +1,2 @@
 # Discrete-Structure
-Submission of LAB Assignment
+- Submission of LAB Assignment 
